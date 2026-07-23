@@ -1,5 +1,5 @@
 # CompetitiveProgramming-SOC2026
-This repo contains all the work done during first 4 weeks of the project on Competitive Programming conducted under Summer of Code 2026.
+This repo contains all the work done during the 8 weeks of the project on Competitive Programming conducted under Summer of Code 2026.
 
 Below is the list of all topics covered as of now. Each week resources on these topics were provided by the mentors and after we had gone through the topics, mentors conducted a contest on codeforces, typically containing more than 10 questions, for a good practice and grasp on those concepts.
 The codes that I wrote to solve those questions have been attached within each week, and additionally, whatever personal notes were taken related to topics or resources given, have been compiled into a pdf and attached separately.
